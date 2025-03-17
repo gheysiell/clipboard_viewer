@@ -4,7 +4,7 @@
 
 ## Run
 
-Open the terminal and nivagate to the root folder, and run:
+Open the terminal, navigate to the root folder, and run:
 clipboard_viewer.exe
 
 ## Compile
